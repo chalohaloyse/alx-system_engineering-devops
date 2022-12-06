@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Insert word: " word
+tr "A" "Z" | tr "c" "e"
