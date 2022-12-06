@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -n -N /etc/ssh/sshd_config
+cat -n . /etc/ssh/sshd_config
