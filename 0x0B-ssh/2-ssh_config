@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#  configure it to our needs so that you can connect to a server without typing a password
+
+Host 41.91.240.129
+    IdentityFile ~/.ssh/school
+    IdentitiesOnly yes
